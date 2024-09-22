@@ -4,7 +4,7 @@ import dsa.tree.binaryTree.Tree;
 
 import java.util.Scanner;
 
-public class TargetPathSumRecursive {
+public class PathSumRecursive {
 
     static Tree root;
 
