@@ -22,8 +22,5 @@ public class SumOfAllNodes {
 		root.left.right = new Tree(5);
 		
 		System.out.println(sumNodes(root));
-	
-
 	}
-
 }
