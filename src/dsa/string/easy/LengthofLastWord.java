@@ -14,7 +14,6 @@ public class LengthofLastWord {
         String[] array = s1.split(" ");
         return array[array.length-1].length();
     }
-
 }
 
 

@@ -2,7 +2,7 @@ package dsa.string.easy;
 
 public class ExcelSheetColumnTile {
     public static void main(String[] args){
-        int num = 701;
+        int num = 53;
         System.out.println(returnString(num));
     }
 

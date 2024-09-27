@@ -4,7 +4,7 @@ import java.util.Stack;
 
 public class BalanceParanthesis {
     public static void main(String[] args){
-        String s = "{}{}";
+        String s = "[({{}})]";
         System.out.println(isValid(s));
     }
 
