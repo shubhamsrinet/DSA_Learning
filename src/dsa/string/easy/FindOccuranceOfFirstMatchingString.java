@@ -5,8 +5,8 @@ import java.util.Map;
 
 public class FindOccuranceOfFirstMatchingString {
     public static void main(String[] args){
-        String s1 = "leetcode";
-        String s2 = "leeto";
+        String s1 = "leetcodez";
+        String s2 = "z";
         System.out.println(findOcc(s1,s2));
     }
 

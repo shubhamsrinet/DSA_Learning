@@ -22,7 +22,6 @@ public class PalindromeCheck {
             reverse = reverse * 10 + digit;
             x /= 10;
         }
-
         return x == reverse || x == reverse / 10;
     }
 }

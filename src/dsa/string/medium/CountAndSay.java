@@ -2,7 +2,7 @@ package dsa.string.medium;
 
 public class CountAndSay {
     public static void main(String[] args){
-        System.out.println(count(4));
+        System.out.println(count(20));
     }
 
     private static String count(int num) {
